@@ -7,4 +7,4 @@ taxing.
 
 [Link to my paper prototypes](https://www.youtube.com/watch?v=Bgz_-72G068)
 
-[link to my prototype](https://projects.invisionapp.com/d/main#/console/1226012/269405071/preview)
+[link to my prototype](https://invis.io/DCEZOTNTU)
